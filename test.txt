@@ -1,1 +1,1 @@
-hello, this is a test file
+テスト用ファイルだよ〜ん
